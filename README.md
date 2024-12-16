@@ -3,6 +3,10 @@
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
+
+![116411-3840x2160-desktop-4k-netflix-wallpaper-photo](https://github.com/user-attachments/assets/615f1138-08ea-4f56-875f-57fc649ddbd3)
+
+
 ## Objectives
 
 - Analyze the distribution of content types (movies vs TV shows).
